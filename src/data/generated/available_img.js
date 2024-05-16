@@ -1,0 +1,1 @@
+define({ availableImg: ["Radzi2023Review","Xu2021TwoStage","He2023Financial","Lim2021Temporal","Masini2021Machine","Papastefanopoulos2023Multivariate","Avram2023Revolutionizing","Benidis2022Deep","Miller2024Survey","Unal2023Climate"]});
